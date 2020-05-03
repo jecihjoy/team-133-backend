@@ -8,4 +8,4 @@ const startApp = async () => {
   header.textContent = programName;
 };
 
-document.addEventListener('DOMContentLoaded', startApp);
+//document.addEventListener('DOMContentLoaded', startApp);
